@@ -11,5 +11,8 @@
     "url": "https://github.com/Codynw42/javascript_projects"
   },
   "author": "cody",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.20.0"
+  }
 }
